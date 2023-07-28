@@ -1,0 +1,76 @@
+.card{
+    margin: 10px;
+    width: 95%;
+}
+
+header {
+    background-color: rgb(228, 228, 228);
+    padding: 10px;
+}
+
+.alert{
+    margin: 20px;
+}
+
+i {
+    font-size: 25px;
+}
+
+.credit {
+    background-color: rgba(109, 118, 124, 0.589);
+    width: 50%;
+    border-radius: .3rem;
+    padding: .2rem;
+    margin: 30px 0;
+}
+
+.row p {
+    margin: 20px 0;
+}
+
+.flex {
+    display: flex;
+    flex-direction: row
+}
+
+.message {
+    display: flex;
+    flex-direction: column;
+}
+
+body {
+    background-color: black;
+}
+
+.information {
+    margin: 1%;
+}
+
+footer{
+    background-color: rgb(228, 228, 228);
+    padding: 10px;
+    margin: -5px 0;
+    margin-top: 10px;
+}
+
+.footer {
+    display: flex;
+    justify-content: flex-end;
+}
+
+.footer button {
+    margin: 5px;
+}
+
+.form-floating {
+    margin-bottom: 50px;
+}
+
+span {
+    color: grey;
+    font-size: 15px;
+}
+
+body {
+    padding: 3rem;
+}
